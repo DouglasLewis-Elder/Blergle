@@ -24,7 +24,7 @@
 	padding:0px;
 	border:#000000 2px solid;
 	background-color:#000000;
-	background-image:url(header.jpg)
+	background-image:url(Images/header.jpg)
 	
 }
 
@@ -48,7 +48,7 @@
 	top:220;
 	left:0;
 	width:507;
-	height:500;
+	height:auto;
 	z-index:1;
 	padding:0px;
 	border:#000000 2px solid;
@@ -63,7 +63,7 @@
 	top:220;
 	left:517;
 	width:507;
-	height:500;
+	height:auto;
 	z-index:1;
 	padding:0px;
 	border:#000000 2px solid;
